@@ -1,4 +1,4 @@
-package model.dto;
+package org.example.chickenstock.model.dto;
 
-public record Stock() {
+public record Order() {
 }
